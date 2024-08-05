@@ -107,4 +107,4 @@ Feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/Linke
 
 ### Thank you for visiting my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=arun-palani&color=brightgreen)
