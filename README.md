@@ -98,10 +98,10 @@ Feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/Linke
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-palani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-palani&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun-palani&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arun-palani&theme=radical)
 
 ---
 
